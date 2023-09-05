@@ -1,0 +1,4 @@
+ID       First Name     Last Name      Age D.O.B
+EB37495  Duy            Nguyen         23  11-30-1999
+SE65529  Alice          Nguyen         23  07-18-2000
+NK72116  Cang           Nguyen         52  12-26-1970
